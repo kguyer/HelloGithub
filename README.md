@@ -2,6 +2,6 @@
 
 **By Kate Guyer**
 
-This project does...
+This is a change
 
 This project outputs "hello github" to the consol
