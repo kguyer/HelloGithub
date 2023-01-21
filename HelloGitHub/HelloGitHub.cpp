@@ -6,4 +6,5 @@
 int main()
 {
     std::cout << "Hello GitHub!\n";
+    std::cout << "Hello Octocat!\n";
 }
